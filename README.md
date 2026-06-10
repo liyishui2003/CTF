@@ -1,8 +1,15 @@
-# CTF
+# CTF + Java
 
-Write-ups & challenges from CTF competitions.
+My personal learning journey — security challenges & backend fundamentals.
 
-## Write-ups
+## 📂 Structure
+
+```
+Cybersecurity/Web/   CTF write-ups & web challenges (PicoCTF, etc.)
+Java/               Java & JVM learning notes
+```
+
+## Cybersecurity / Web
 
 | # | Challenge | Category |
 |---|-----------|----------|
@@ -19,4 +26,10 @@ Write-ups & challenges from CTF competitions.
 | 11 | ScavengerHunt 寻宝游戏 | Web |
 | 12 | GET aHEAD | Web |
 
-More coming as I solve...
+## Java
+
+| File | Content |
+|------|---------|
+| 1.1 JVM.md | JVM Memory Regions & Object Lifecycle (Session 1) |
+
+More learning sessions coming...
